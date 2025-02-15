@@ -5,7 +5,7 @@
 I'm Navinkumar, a passionate Computer Science Engineering graduate stepping into the exciting world of software development! 🚀 I love solving problems, building projects, and learning about cutting-edge technologies. 
 
 ### 🌱 Tech Skills
-- Languages: Python, Basics of C
+- Languages: Python, C, JavaScript
 - Web Development: HTML, CSS, JavaScript
 - Databases: MySQL
 - Version Control: Git & GitHub
